@@ -1,0 +1,12 @@
+.idea/
+klee/
+output/
+target/
+
+src/main/java/*RERS*
+!src/main/java/LTLRERS2017/Problem1
+!src/main/java/ReachabilityRERS2017/Problem10
+
+*.jar
+*.log
+*.zip
